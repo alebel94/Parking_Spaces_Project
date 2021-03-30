@@ -1,8 +1,7 @@
+# Parking Spaces Projcect Simulation
+
 Garage project by Will and Alejandro
 
-Both .ipynb and .py files should produce the same end result. 
+Both .ipynb and .py files are produced with the same end result. 
 
-Will and Alejandro divided the work evenly throughout the project with the exception of the following individual work:
-
-Will:
-    Line 67, 68, and 72-75.
+This is a simulation of a parking garage meter when getting a ticket using classes.
